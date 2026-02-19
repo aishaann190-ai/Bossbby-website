@@ -1,0 +1,74 @@
+# Bossbby Tours & Travel Website 🌍
+
+Official website for **Bossbby Tours & Travel**, a travel company specializing in adventure, safari, cultural, jungle, leisure, and customized group trips.
+
+---
+
+## 📌 About the Project
+This website is a modern, responsive travel site designed to showcase tour packages, services, and booking information for clients interested in exploring unique travel experiences.
+
+It includes:
+- Tour package sections
+- Booking call-to-action buttons
+- WhatsApp contact integration
+- Email and call buttons
+- Responsive mobile-friendly design
+- Downloadable package images
+
+---
+
+## 🚀 Live Demo
+After deployment, your site will be available here:
+
+```
+https://your-site-name.onrender.com
+```
+
+*(Replace with your real link after deployment)*
+
+---
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 Project Structure
+```
+/project-folder
+│── index.html
+│── style.css
+│── script.js
+│── images/
+```
+
+---
+
+## 📞 Contact
+**Bossbby Tours & Travel**
+
+📧 Email: bossbbytoursandtravel@gmail.com  
+📱 WhatsApp: +256742916871  
+📞 Calls: +256757867550  
+
+---
+
+## 🌟 Services Offered
+- Safari tours  
+- Adventure trips  
+- Cultural experiences  
+- Jungle expeditions  
+- Leisure travel  
+- Customized group tours  
+
+---
+
+## 📄 License
+This project is for business and promotional use by **Bossbby Tours & Travel**. Unauthorized copying or redistribution is not allowed.
+
+---
+
+## ✨ Author
+Developed for **Bossbby Tours & Travel** to provide a professional online presence and booking platform.
